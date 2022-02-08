@@ -3,7 +3,7 @@ var Catalog = 'Default Catalog'
 const logo = ''
 const LeftMenu = [
 	{
-	title: "               ",
+	title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
 	action:"navigation",
     	deepLink: 'list/all_activities'	},
 	
