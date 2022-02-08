@@ -286,7 +286,9 @@ strong,
     -webkit-margin-end: 1rem;
     margin-inline-end: 1rem;
             color:white;
-            font-weight:bold
+            font-weight:bold;
+            margin-left: -10rem;
+margin-right: 12rem;
 }
 
 .header-start,
