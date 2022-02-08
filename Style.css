@@ -665,18 +665,15 @@ button {
 
 .wrapper {
     height: 100%;
-    display: -ms-grid;
     display: grid;
-    grid-template-areas: "carousal sidebar""categories sidebar";
-    -ms-grid-rows: 28rem auto;
-    grid-template-rows: 28rem auto;
-    -ms-grid-columns: auto 16rem;
-    grid-template-columns: auto 16rem;
-    gap: 2rem;
+    grid-template-areas: "carousal";
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    /*gap: 2rem;
     padding-left: 2rem;
     padding-right: 2rem;
     max-width: 1464px;
-    margin: 2rem auto;
+    margin: 2rem auto;*/
 }
 
 #sidebar {
@@ -699,8 +696,8 @@ button {
 
     .wrapper {
         padding: 0 !important;
-        grid-template-areas: "carousal""categories";
-        grid-template-columns: auto;
+        grid-template-areas: "carousal";
+        grid-template-columns: 1fr;
         max-width: 100%;
         margin: 0;
     }
