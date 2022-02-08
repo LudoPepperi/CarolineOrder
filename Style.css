@@ -1150,6 +1150,7 @@ button {
     background: url("https://storage.pepperi.com/PreSales/NewFoodDemoImg/back.png");
     background-color: #e5e5e5;
     cursor: pointer;
+            border-radius: 0;
 }
 
 @media screen and (max-width: 768px) {
