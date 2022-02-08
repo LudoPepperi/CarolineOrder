@@ -3,11 +3,6 @@ var Catalog = 'Default Catalog'
 const logo = ''
 const LeftMenu = [
 	{
-	title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-	action:"navigation",
-    	deepLink: 'list/all_activities'	},
-	
-	{
     	catalog: "Default Catalog",
     	transaction: "CAROLINE ABRAM",
     	title: "CAROLINE ABRAM",
