@@ -112,7 +112,7 @@ var Promotions = [
 var CaruselData = [
 {
 
-    title: 'TIME',
+    title: '',
     imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_1.png',
     description: '',
     buttonText: '',
@@ -121,7 +121,7 @@ var CaruselData = [
     },
 {
 
-    title: 'PIRELLI',
+    title: '',
     imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_2.png',
     description: '',
     buttonText: '',
@@ -130,7 +130,7 @@ var CaruselData = [
 },
 {
 
-    title: 'GIRO',
+    title: '',
     imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_3.png',
     description: '',
     buttonText: '',
@@ -139,7 +139,7 @@ var CaruselData = [
 },
 {
 
-    title: 'ALTURA',
+    title: '',
     imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_4.png',
     description: '',
     buttonText: '',
@@ -148,7 +148,7 @@ var CaruselData = [
 },
 {
 
-    title: 'ALTURA',
+    title: '',
     imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_5.png',
     description: '',
     buttonText: '',
