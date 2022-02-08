@@ -285,6 +285,8 @@ strong,
 .header-start .logo {
     -webkit-margin-end: 1rem;
     margin-inline-end: 1rem;
+            color:white;
+            font-weight:bold
 }
 
 .header-start,
