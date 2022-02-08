@@ -113,7 +113,7 @@ var CaruselData = [
 {
 
     title: 'TIME',
-    imageURL: 'https://www.royalvelofrance.fr/files/133176/img/10/speciale-8-time.jpg',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_1.png',
     description: '',
     buttonText: '',
     time: 5000,
@@ -122,7 +122,7 @@ var CaruselData = [
 {
 
     title: 'PIRELLI',
-    imageURL: 'https://www.royalvelofrance.fr/files/133176/img/04/fabien-barel-pirelli-episode-2.png',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_2.png',
     description: '',
     buttonText: '',
     time: 5000,
@@ -131,7 +131,7 @@ var CaruselData = [
 {
 
     title: 'GIRO',
-    imageURL: 'https://www.royalvelofrance.fr/files/133176/img/18/latch-giro.jpg',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_3.png',
     description: '',
     buttonText: '',
     time: 5000,
@@ -140,7 +140,16 @@ var CaruselData = [
 {
 
     title: 'ALTURA',
-    imageURL: 'https://www.royalvelofrance.fr/files/133176/img/18/route-altura.jpg',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_4.png',
+    description: '',
+    buttonText: '',
+    time: 5000,
+    deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22c55a1169-5a4b-462b-8eec-9341bc0184ea%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%22cdf580bb-e039-4dae-be88-3534e0d5f2c7%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false'
+},
+{
+
+    title: 'ALTURA',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_5.png',
     description: '',
     buttonText: '',
     time: 5000,
