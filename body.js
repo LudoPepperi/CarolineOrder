@@ -22,7 +22,7 @@ var customHomepage = {};
   this.accountUUID;
   this.catalogs = [];
   this.accounts = [];
-  this.jsonFilePath = 'https://ludopepperi.github.io/OPTA/config_body_test.js';
+  this.jsonFilePath = 'https://ludopepperi.github.io/OPTA/config_body.js';
   this.isMultiAccount = true;
   this.cssFilePath = "";
   this.transactionFields = [];
