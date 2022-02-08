@@ -3,7 +3,7 @@ var Catalog = 'Default Catalog'
 const logo = ''
 const LeftMenu = [
 	{
-	title: "Opta Filao / GLG Eyewear",
+	title: "               ",
 	action:"navigation",
     	deepLink: 'list/all_activities'	},
 	
