@@ -28,7 +28,7 @@ var customHeader = {};
   this.catalogName = "";
   this.transactionName = "";
   this.catalogs;
-  this.jsFilePath = 'https://ludopepperi.github.io/OPTA/config_header_test.js';
+  this.jsFilePath = 'https://ludopepperi.github.io/OPTA/config_header.js';
   this.cssFilePath = 'https://ludopepperi.github.io/OPTA/Style.css';
 
   this.setHtml = function () {
