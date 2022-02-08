@@ -1,6 +1,6 @@
 var Transaction = 'Commande';
 var Catalog = 'Default Catalog'
-const logo = 'Opta Filao / GLG Eyeware'
+const logo = ''
 const LeftMenu = [
 	{
     	catalog: "Default Catalog",
