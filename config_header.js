@@ -3,6 +3,10 @@ var Catalog = 'Default Catalog'
 const logo = ''
 const LeftMenu = [
 	{
+		title: "Opta Filao / GLG Eyewear"
+	},
+	
+	{
     	catalog: "Default Catalog",
     	transaction: "CAROLINE ABRAM",
     	title: "CAROLINE ABRAM",
