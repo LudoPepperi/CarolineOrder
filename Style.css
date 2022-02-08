@@ -647,8 +647,10 @@ button {
 }
 
     .button-icon svg {
-        fill: #0a0a0a;
+        fill: white;
         fill-opacity: 0.6;
+        border: solid white;
+        border-radius:50px;
         -webkit-transition: fill-opacity ease-in-out 0.25s;
         transition: fill-opacity ease-in-out 0.25s;
     }
