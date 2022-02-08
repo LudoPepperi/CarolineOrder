@@ -316,7 +316,6 @@ margin-right: 12rem;
     .header-start .link {
         color: white;
         font-size: 1rem;
-        font-weight: 600;
         -webkit-margin-end: 1rem;
         margin-inline-end: 1rem;
         -webkit-transition: color ease-in-out 0.25s;
