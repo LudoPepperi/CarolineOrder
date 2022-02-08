@@ -320,7 +320,7 @@ strong,
     }
 
         .header-start .link:hover {
-            color: green;
+         
         }
 
 .header-end button {
@@ -344,6 +344,7 @@ body {
 
 .dropdown {
     position: relative;
+    color:black;
 }
 
 [class*="custom-input"] {
