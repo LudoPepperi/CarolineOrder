@@ -321,6 +321,7 @@ margin-right: 12rem;
         margin-inline-end: 1rem;
         -webkit-transition: color ease-in-out 0.25s;
         transition: color ease-in-out 0.25s;
+                margin-left: 20px;
     }
 
         .header-start .link:hover {
