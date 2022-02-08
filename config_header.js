@@ -1,13 +1,13 @@
 var Transaction = 'Commande';
 var Catalog = 'Default Catalog'
-const logo = 'https://ludopepperi.github.io/RVF/logoRVF.jpg'
+const logo = 'Opta Filao / GLG Eyeware'
 const LeftMenu = [
 	
  
 ];
 const RightMenu = [
 	
-  {
+  /*{
         catalog: "Default Catalog",
         transaction: "Commande",
     title: "",
@@ -18,13 +18,27 @@ const RightMenu = [
     `,
     action:"setUUIDandNav",
     deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%227142a6f9-af48-4dba-a30d-85d89b2ed083%5C%22%7D%22'
+  }*/
+{
+    	catalog: "Default Catalog",
+    	transaction: "CAROLINE ABRAM",
+    	title: "CAROLINE ABRAM",
+    	action:"setUUIDandNav",
+    	deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%227142a6f9-af48-4dba-a30d-85d89b2ed083%5C%22%7D%22'
+  },
+ {
+	catalog: "Default Catalog",
+        transaction: "BLUSH",
+    	title: "BLUSH",
+    	action:"createNewTransaction",
+    	deepLink: '/Transactions/scope_items/{{UUID}}'
   },
 	{
-		catalog: "Default Catalog",
-        transaction: "Commande",
-    title: "Commande",
-    action:"createNewTransaction",
-    deepLink: '/Transactions/scope_items/{{UUID}}'
+	catalog: "Default Catalog",
+        transaction: "TETE A LUNETTES",
+    	title: "T\u00caTE \u00c0 LUNETTES",
+    	action:"createNewTransaction",
+    	deepLink: '/Transactions/scope_items/{{UUID}}'
   },
   {
     title: "Historique",
