@@ -226,7 +226,6 @@ strong,
     -ms-flex-align: center;
     align-items: center;
     background: black;
-    color: white;
     -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04), 0 4px 8px rgba(0, 0, 0, 0.06), 0 8px 16px rgba(0, 0, 0, 0.08);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04), 0 4px 8px rgba(0, 0, 0, 0.06), 0 8px 16px rgba(0, 0, 0, 0.08);
     height: var(--header-height);
@@ -311,7 +310,7 @@ strong,
 
 
     .header-start .link {
-        color: black;
+        color: white;
         font-size: 1rem;
         font-weight: 600;
         -webkit-margin-end: 1rem;
