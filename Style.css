@@ -271,11 +271,11 @@ strong,
             margin-right: 12rem;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1800px) {
            .header-start .logo {
             margin-left: 0rem;
             margin-right: 1rem;
-} 
+            } 
 }
 
 .header-start,
