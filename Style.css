@@ -202,22 +202,6 @@ strong,
     line-height: 1.1em;
 }
 
-@media screen and (max-width: 960px) {
-    .header {
-        padding: 0 1.5rem;
-    }
-
-    .title-4-lg {
-        font-size: 1.5rem;
-    }
-}
-
-@media screen and (max-width: 576px) {
-    .title-4-lg {
-        font-size: 2rem;
-    }
-}
-
 #header-section {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -271,11 +255,7 @@ strong,
     align-items: center;
 }
 
-@media screen and (max-width: 768px) {
-    .header {
-        padding: 0 1rem;
-    }
-}
+
 
 .logo {
     max-height: 2.5rem;
