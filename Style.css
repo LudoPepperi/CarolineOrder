@@ -153,6 +153,19 @@ button:focus {
     -moz-osx-font-smoothing: grayscale;
 }
 
+#player {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
+
+#indicators {
+  border-radius: 25px;
+  height: 30px;
+  width: 150px;
+  padding-left: 10px;
+}
+
 body {
     color: #0a0a0a;
     font-family: "Inter", "Inter var", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
