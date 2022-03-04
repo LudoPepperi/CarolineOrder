@@ -291,6 +291,13 @@ strong,
             } 
 }
 
+@media screen and (max-width: 1200px) {
+            #header_btn_bar {
+              display: grid;
+              grid-template-columns: repeat(4,1fr);
+            }
+}
+
 .header-start,
 .header-end {
     display: -webkit-box;
