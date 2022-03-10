@@ -1,5 +1,5 @@
-var Transaction = 'Commande';
-var Catalog = 'Default Catalog'
+var Transaction = '';
+var Catalog = ''
 const logo = ''
 const LeftMenu = [
 	{
