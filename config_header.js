@@ -7,35 +7,35 @@ const LeftMenu = [
     	transaction: "CAROLINE ABRAM",
     	title: "CAROLINE ABRAM",
     	action:"setUUIDandNav",
-    	deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%227142a6f9-af48-4dba-a30d-85d89b2ed083%5C%22%7D%22'
+    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"c9c8f30a-1001-4558-a5f5-4652876dcc49\"}"&StartIndex=0'
   },
  {
 	catalog: "Default Catalog",
         transaction: "BLUSH",
     	title: "BLUSH",
     	action:"createNewTransaction",
-    	deepLink: '/Transactions/scope_items/{{UUID}}'
+    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"f61c05e9-41d8-4535-9eee-cc9d732a431e\"}"&StartIndex=0'
   },
 	{
 	catalog: "Default Catalog",
         transaction: "TETE A LUNETTES",
     	title: "T\u00caTE \u00c0 LUNETTES",
     	action:"createNewTransaction",
-    	deepLink: '/Transactions/scope_items/{{UUID}}'
+    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"470ac326-d207-4756-a0d9-02e06e036935\"}"&StartIndex=0'
   },
 		{
 	catalog: "Default Catalog",
         transaction: "ACCESSOIRE",
     	title: "ACCESSOIRE",
     	action:"createNewTransaction",
-    	deepLink: '/Transactions/scope_items/{{UUID}}'
+    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"ff87da18-e501-47ec-bc91-58794d177dcb\"}"&StartIndex=0'
   },
 		{
 	catalog: "Default Catalog",
         transaction: "TALLA",
     	title: "TALLA",
     	action:"createNewTransaction",
-    	deepLink: '/Transactions/scope_items/{{UUID}}'
+    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"dee8868a-ecd2-4a5f-8c29-af7ee70bf20a\"}"&StartIndex=0'
   },
   {
     title: "COMMANDES",
