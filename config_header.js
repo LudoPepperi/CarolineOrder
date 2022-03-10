@@ -6,21 +6,21 @@ const LeftMenu = [
     	catalog: "OPTA_FILAO",
     	transaction: "Caroline Abram",
     	title: "CAROLINE ABRAM",
-    	action:"createNewTransaction",
+    	action:"setUUIDandNav",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2256d94f99-bad8-4322-98e9-7f1b31104fb5%5C%22%7D%22&StartIndex=0'
   },
  {
 	catalog: "BLUSH FR",
         transaction: "BLUSH FR",
     	title: "BLUSH",
-    	action:"createNewTransaction",
+    	action:"setUUIDandNav",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"f61c05e9-41d8-4535-9eee-cc9d732a431e\"}"&StartIndex=0'
   },
 	{
 	catalog: "Tete a Lunettes",
-        transaction: "Tete à Lunettes",
+        transaction: "Tete \u00e0 Lunettes",
     	title: "T\u00caTE \u00c0 LUNETTES",
-    	action:"createNewTransaction",
+    	action:"setUUIDandNav",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"470ac326-d207-4756-a0d9-02e06e036935\"}"&StartIndex=0'
   },
 		{
