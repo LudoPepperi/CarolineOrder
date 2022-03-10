@@ -6,7 +6,7 @@ const LeftMenu = [
     	catalog: "OPTA_FILAO",
     	transaction: "Caroline Abram",
     	title: "CAROLINE ABRAM",
-    	action:"setUUIDandNav",
+    	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"c9c8f30a-1001-4558-a5f5-4652876dcc49\"}"&StartIndex=0'
   },
  {
