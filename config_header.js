@@ -7,7 +7,7 @@ const LeftMenu = [
     	transaction: "Caroline Abram",
     	title: "CAROLINE ABRAM",
     	action:"createNewTransaction",
-    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"c9c8f30a-1001-4558-a5f5-4652876dcc49\"}"&StartIndex=0'
+    	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2256d94f99-bad8-4322-98e9-7f1b31104fb5%5C%22%7D%22&StartIndex=0'
   },
  {
 	catalog: "BLUSH FR",
