@@ -3,35 +3,35 @@ var Catalog = 'Default Catalog'
 const logo = ''
 const LeftMenu = [
 	{
-    	catalog: "Default Catalog",
+    	catalog: "OPTA FILAO",
     	transaction: "CAROLINE ABRAM",
     	title: "CAROLINE ABRAM",
     	action:"setUUIDandNav",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"c9c8f30a-1001-4558-a5f5-4652876dcc49\"}"&StartIndex=0'
   },
  {
-	catalog: "Default Catalog",
+	catalog: "BLUSH FR",
         transaction: "BLUSH",
     	title: "BLUSH",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"f61c05e9-41d8-4535-9eee-cc9d732a431e\"}"&StartIndex=0'
   },
 	{
-	catalog: "Default Catalog",
+	catalog: "Tete a Lunettes",
         transaction: "TETE A LUNETTES",
     	title: "T\u00caTE \u00c0 LUNETTES",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"470ac326-d207-4756-a0d9-02e06e036935\"}"&StartIndex=0'
   },
 		{
-	catalog: "Default Catalog",
+	catalog: "ACCESSOIRES",
         transaction: "ACCESSOIRE",
     	title: "ACCESSOIRE",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"ff87da18-e501-47ec-bc91-58794d177dcb\"}"&StartIndex=0'
   },
 		{
-	catalog: "Default Catalog",
+	catalog: "TALLA",
         transaction: "TALLA",
     	title: "TALLA",
     	action:"createNewTransaction",
@@ -43,7 +43,7 @@ const LeftMenu = [
     deepLink: 'list/all_activities'
   },
 	{
-    activity:"RECLAMATION",
+    activity:"SAV",
     title: "RECLAMATION",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
