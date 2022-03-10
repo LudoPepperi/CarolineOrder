@@ -4,35 +4,35 @@ const logo = ''
 const LeftMenu = [
 	{
     	catalog: "OPTA FILAO",
-    	transaction: "CAROLINE ABRAM",
+    	transaction: "Caroline Abram",
     	title: "CAROLINE ABRAM",
     	action:"setUUIDandNav",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"c9c8f30a-1001-4558-a5f5-4652876dcc49\"}"&StartIndex=0'
   },
  {
 	catalog: "BLUSH FR",
-        transaction: "BLUSH",
+        transaction: "BLUSH FR",
     	title: "BLUSH",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"f61c05e9-41d8-4535-9eee-cc9d732a431e\"}"&StartIndex=0'
   },
 	{
 	catalog: "Tete a Lunettes",
-        transaction: "TETE A LUNETTES",
+        transaction: "Tete à Lunettes",
     	title: "T\u00caTE \u00c0 LUNETTES",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"470ac326-d207-4756-a0d9-02e06e036935\"}"&StartIndex=0'
   },
 		{
 	catalog: "ACCESSOIRES",
-        transaction: "ACCESSOIRE",
+        transaction: "Accessoires",
     	title: "ACCESSOIRE",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"ff87da18-e501-47ec-bc91-58794d177dcb\"}"&StartIndex=0'
   },
 		{
 	catalog: "TALLA",
-        transaction: "TALLA",
+        transaction: "Commande Talla",
     	title: "TALLA",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="{\"JsonFilter\":\"dee8868a-ecd2-4a5f-8c29-af7ee70bf20a\"}"&StartIndex=0'
