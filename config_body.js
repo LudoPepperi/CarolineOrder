@@ -1,5 +1,5 @@
-var Transaction = 'OPTA_FILAO';
-var Catalog='Caroline Abram'
+var Transaction = 'Caroline Abram';
+var Catalog='OPTA_FILAO'
 var blocks_config = {
     /*'free_shipping': {
         text: "Frais de Port Offert \u00e0 partir de 200\u20ac d'achat",
