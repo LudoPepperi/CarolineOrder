@@ -26,7 +26,7 @@ const LeftMenu = [
 		{
 	catalog: "ACCESSOIRES",
         transaction: "Accessoires",
-    	title: "ACCESSOIRE",
+    	title: "ACCESSOIRES",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22ff87da18-e501-47ec-bc91-58794d177dcb%5C%22%7D%22'
   },
