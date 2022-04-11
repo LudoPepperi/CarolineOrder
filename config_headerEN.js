@@ -18,7 +18,7 @@ const LeftMenu = [
   },
 	{
 	catalog: "Tete a Lunettes EN",
-        transaction: "Tete \u00e0 Lunette EN",
+        transaction: "T\u00eate \u00e0 Lunette EN",
     	title: "T\u00caTE \u00c0 LUNETTES",
     	action:"createNewTransaction",
     	deepLink: '/Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22470ac326-d207-4756-a0d9-02e06e036935%5C%22%7D%22'
