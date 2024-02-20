@@ -48,12 +48,12 @@ const LeftMenu = [
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
   },
-	{
+	/*{
     activity:"SAV New",
     title: "SAV",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
-  },
+  },*/
  
 ];
 const RightMenu = [
