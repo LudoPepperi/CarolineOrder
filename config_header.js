@@ -44,7 +44,7 @@ const LeftMenu = [
   },
 	{
     activity:"SAV",
-    title: "RECLAMATION",
+    title: "SAV",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
   },
