@@ -42,18 +42,18 @@ const LeftMenu = [
     action:"navigation",
     deepLink: 'list/all_activities'
   },
-	{
+	/*{
     activity:"SAV",
     title: "SAV",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
-  },
-	/*{
+  },*/
+{
     activity:"SAV New",
     title: "SAV",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
-  },*/
+  },
 	
  
 ];
